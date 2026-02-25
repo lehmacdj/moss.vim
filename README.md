@@ -15,4 +15,5 @@ Plug 'lehmacdj/moss.vim'
 
 This plugin was ported from the
 [VS Code extension](https://github.com/moss-lang/moss/tree/main/packages/moss-vscode)
-using Claude.
+using Claude. If the grammar gets out of date, you can ask Claude to
+update it — see `CLAUDE.md` for context.
