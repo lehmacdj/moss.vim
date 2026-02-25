@@ -17,3 +17,7 @@ This plugin was ported from the
 [VS Code extension](https://github.com/moss-lang/moss/tree/main/packages/moss-vscode)
 using Claude. If the grammar gets out of date, you can ask Claude to
 update it — see `CLAUDE.md` for context.
+
+## License
+
+MIT — same as [Moss](https://github.com/moss-lang/moss).
